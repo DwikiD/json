@@ -1,0 +1,17 @@
+[
+{ 
+	"nama" : "Dwiki Ganteng",
+	"umur" : 20,
+	"nrp"  : "173040069",
+	"lulus": true,
+	"hobby": [
+		"Coding",
+		"Desain Grafis"
+	],
+	"pembimbing": {
+		"pembimbing1": "Sandhika",
+		"pembimbing2": "Handoko"
+	}
+	
+}
+]
